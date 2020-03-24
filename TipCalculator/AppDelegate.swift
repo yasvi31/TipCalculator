@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  TipCalculator
 //
-//  Created by apple on 20/03/2020.
-//  Copyright © 2020 apple. All rights reserved.
+//  Created by Yasvi Patel on 20/03/2020.
+//  Copyright © 2020 Yasvi Patel. All rights reserved.
 //
 
 import UIKit

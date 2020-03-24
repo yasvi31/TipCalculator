@@ -2,7 +2,7 @@
 //  SettingsViewController.swift
 //  TipCalculator
 //
-//  Created by apple on 21/03/2020.
+//  Created by Yasvi Patel on 21/03/2020.
 //
 
 import UIKit
